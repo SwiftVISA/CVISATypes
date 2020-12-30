@@ -21,6 +21,9 @@ let package = Package(
 		.systemLibrary(name: "CVISA"),
 		.testTarget(
 			name: "CVISATests",
-			dependencies: ["CVISA"]),
+			dependencies: ["CVISA"],
+			linkerSettings: [
+				.linkedFramework("visa")
+			]),
 	]
 )

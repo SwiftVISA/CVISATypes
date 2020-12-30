@@ -10,17 +10,10 @@ final class CVISATests: XCTestCase {
 		// Use XCTAssert and related functions to verify your tests produce the correct
 		// results.
 		#if canImport(CVISA)
-		// Success
 		
-		#if MY_FLAG
-		print("My flag")
-		#endif
+		var session = ViSession()
 		
-		#if HAS_NI_VISA
-		print("Has NI-VISA")
-		#else
-		print("Does not have NI_VISA")
-		#endif
+		viOpenDefaultRM(&session)
 		
 		#else
 		XCTFail()

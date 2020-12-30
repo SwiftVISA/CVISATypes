@@ -1,5 +1,6 @@
 
 module CVISA [system] {
-	header "../../Headers/CVISA-Bridging-Header.h"
+	umbrella header "../../Headers/CVISA-Bridging-Header.h"
+	link "visa"
 	export *
 }
