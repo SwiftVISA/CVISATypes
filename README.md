@@ -1,8 +1,4 @@
-<div style="text-align:center">
-
 <img src="https://github.com/SwiftVISA/CVISATypes/blob/main/SwiftVISA%20Logo.png" width="512" height="512">
-
-</div>
 
 # CVISATypes
 
