@@ -1,0 +1,5 @@
+
+module CVISATypes [system] {
+	umbrella header "../../Headers/CVISATypes-Bridging-Header.h"
+	export *
+}

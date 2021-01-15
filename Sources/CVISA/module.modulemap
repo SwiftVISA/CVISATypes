@@ -1,5 +1,0 @@
-
-module CVISA [system] {
-	umbrella header "../../Headers/CVISA-Bridging-Header.h"
-	export *
-}
