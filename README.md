@@ -1,4 +1,4 @@
-<img src="https://github.com/SwiftVISA/CVISATypes/blob/main/SwiftVISA%20Logo.png" width="512" height="512">
+<img src="https://github.com/SwiftVISA/CoreSwiftVISA/blob/master/SwiftVISA%20Logo.png" width="512" height="512">
 
 # CVISATypes
 
