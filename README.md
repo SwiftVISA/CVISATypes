@@ -6,13 +6,13 @@ A package that exposes NI-VISA types to Swift. This package does not expose NI-V
 
 ## Requirements
 
-- NI-VISA 20.0+
+- [NI-VISA](https://www.ni.com/en-us/support/downloads/drivers/download.ni-visa.html#351229) 20.0+
 - macOS 10.10+
 - Swift 5.0+
 
 ## Installation
 
-Installation can be done through the Swift Package Manager. To use the CVISATypes package in your project, include the following dependency in your `Package.swift` file.
+Installation can be done through the [Swift Package Manager](https://swift.org/package-manager/). To use the CVISATypes package in your project, include the following dependency in your `Package.swift` file.
 ```swift
 dependencies: [
     .package(url: "https://github.com/SwiftVISA/CVISATypes.git", .upToNextMajor(from: "1.0.0"))
