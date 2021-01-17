@@ -10,4 +10,6 @@
 
 #import "/Library/Frameworks/VISA.framework/Headers/visatype.h"
 
+typedef ViUInt32 ViAccessMode
+
 #endif /* CVISATypes_Bridging_Header_h */
