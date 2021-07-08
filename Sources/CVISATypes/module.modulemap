@@ -1,3 +1,9 @@
+//
+//  module.modulemap
+//
+//
+//  Created by Connor Barnes on 12/2/20.
+//
 
 module CVISATypes [system] {
 	umbrella header "../../Headers/CVISATypes-Bridging-Header.h"

@@ -2,7 +2,7 @@
 
 # CVISATypes
 
-A package that exposes NI-VISA types to Swift. This package does not expose NI-VISA functions to Swift. In order to use the NI-VISA C library with Swift, you must manually include the NI provided VISA.framework file into your project. Alternativley, you can check out our other repositories for interacting with VISA through Swift.
+A package that exposes NI-VISA types to Swift. This package does not expose NI-VISA functions to Swift. In order to use the NI-VISA C library with Swift, you must manually include the NI provided VISA.framework file into your project. Alternatively, you can check out our other repositories for interacting with VISA through Swift.
 
 ## Requirements
 
